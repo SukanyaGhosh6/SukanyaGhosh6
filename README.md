@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **Machine learning project**
 
-- 🌱 I’m currently learning **Data science and Machine learning**
+- 🌱 I’m currently learning **Data structures and algorithms, DBMS ,Operating System and Machine Learning Concepts**
 
 - 💬 Ask me about **Java,Android development,web devlopment,DSA**
 
