@@ -1,22 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sukanya Ghosh</h1>
-<h3 align="center">
-🎓 Recent Computer Science graduate (2024) with an 8.71 CGPA  
-
-  
-🔐 Cybersecurity enthusiast with a deep passion for ethical tech 
-
-📱 Explored Android App Development during my college days  
-
-🐍 Currently sharpening my skills in Python DSA.  
-
-🌐 Learning Python Full-Stack Development to build secure and scalable apps  
-
-🧠 I love solving problems and learning something new every day
-
-✍️ Contributor & article writer at GeeksforGeeks  
-
-</h3>
-
+- 🎓 Recent **CSE graduate** (2024) with an **8.71 CGPA**, passionate about cybersecurity and ethical tech  
+- 📱 Explored Android app development in college; now focused on **Python DSA** and **full-stack development** 
+- ✍️ Love solving problems, learning new things, and **writing tech articles at GeeksforGeeks**
 
 - 📫 How to reach me **sukanyaghosh.adtu@gmail.com**
 
