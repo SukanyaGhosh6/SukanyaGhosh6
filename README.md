@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sukanya Ghosh</h1>
 <h3 align="center">
--🎓 Recent Computer Science graduate (2024) with an 8.71 CGPA  
+🎓 Recent Computer Science graduate (2024) with an 8.71 CGPA  
   
--🔐 Cybersecurity enthusiast with a deep passion for ethical tech 
+🔐 Cybersecurity enthusiast with a deep passion for ethical tech 
 
--📱 Explored Android App Development during my college days  
+📱 Explored Android App Development during my college days  
 
--🐍 Currently sharpening my skills in Python DSA.  
+🐍 Currently sharpening my skills in Python DSA.  
 
--🌐 Learning Python Full-Stack Development to build secure and scalable apps  
+🌐 Learning Python Full-Stack Development to build secure and scalable apps  
 
--🧠 I love solving problems and learning something new every day
+🧠 I love solving problems and learning something new every day
 </h3>
 
 
