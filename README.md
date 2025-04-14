@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sukanya Ghosh</h1>
 <h3 align="center">
 🎓 Recent Computer Science graduate (2024) with an 8.71 CGPA  
+
   
 🔐 Cybersecurity enthusiast with a deep passion for ethical tech 
 
