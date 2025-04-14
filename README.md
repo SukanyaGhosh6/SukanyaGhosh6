@@ -14,8 +14,6 @@
 </h3>
 
 
-- 🌱 I’m currently learning **Data structures and algorithms, DBMS ,Operating System, python, full stack web development in python and cybersecurity**
-
 - 📫 How to reach me **sukanyaghosh.adtu@gmail.com**
 
 <h3 align="left">Connect with me: </h3>
